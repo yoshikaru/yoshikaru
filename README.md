@@ -8,7 +8,7 @@
  <img width="1000" src="https://i.imgur.com/P1F9eM2.jpeg"
  </p>
  <p align="center"> 
- <img width="600" src="https://64.media.tumblr.com/53db0a2bbab91e13cd549a60455a9877/4f7dfb36276881c0-b8/s400x600/c658c6e2e88354aab81541f439fc810c3ea5ca85.gifv"
+ <img width="600" src="https://64.media.tumblr.com/406d8e5c1ed7eb5c9a3847a39e6704a5/3729f36bbe497578-61/s400x600/f17d87bb562c4c972bc846eebd005e82f64c7e95.gifv"
  </p>
   <p align="center"> 
   <strong>${\color{cyan}➤}$⠀feel free to int</strong>, i dont bite and i'm up for conversations
@@ -34,12 +34,12 @@
 <a href="https://thedesires.atabook.org/">ATABOOK</a> ${\color{cyan}.}$ <a href="https://bundlrs.cc/kusuo.saiki">BUNDLRS</a> ${\color{cyan}.}$ <a href="https://listography.com/thedesires">INTERESTS</a>
   </p>
   <p align="center">
- <img width="35" src="https://64.media.tumblr.com/e8876be0b590c631b4c3563d91f88a0d/612fb83518159c9c-9e/s75x75_c1/8f705f2f3d8625563f345b52b4701507117b88cf.gifv"
+ <img width="35" src="https://64.media.tumblr.com/31638ab32cc7c85ba10d396f94a34dd0/4720c94c0b561795-1d/s75x75_c1/4e3453c7aac02a8f02fdc153a3bc6073d3daf976.gifv"
   </p>
   <img width="35" src="https://64.media.tumblr.com/86ab758692a4d3f37b1c4b263e1a926f/23c9d1d5cf9aada9-4f/s75x75_c1/75d92dc431135c6d945499604f4100127b934ae8.gifv"
  </p>
   <p align="center"> 
- <img width="600" src="https://64.media.tumblr.com/53db0a2bbab91e13cd549a60455a9877/4f7dfb36276881c0-b8/s400x600/c658c6e2e88354aab81541f439fc810c3ea5ca85.gifv"
+ <img width="600" src="https://64.media.tumblr.com/406d8e5c1ed7eb5c9a3847a39e6704a5/3729f36bbe497578-61/s400x600/f17d87bb562c4c972bc846eebd005e82f64c7e95.gifv"
   </p>
   <p align="center">
  </p>
@@ -138,7 +138,7 @@
 
 
 <p align="center">
- <img width="35" src="https://64.media.tumblr.com/786d66ba80170e41e93d01226694db95/1bf10d2268d0dc71-0d/s75x75_c1/1ddf59bfc3759afced8d6148538f8acd46486b81.gifv"
+ <img width="35" src="https://64.media.tumblr.com/8dff9d8ba4bc6efb14c9009c532e5255/a61a02234809a08a-dd/s75x75_c1/83e5271af3c431ba9c256e1a0b19ba5972e86dce.gifv"
  </p>
 
  
