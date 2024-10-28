@@ -5,7 +5,7 @@
 
  </h4>
 <p align="center">
- <img width="1000" src="https://64.media.tumblr.com/41761266fcab2795218c46aeba236e7e/cd6665a335db0973-97/s640x960/bf4d484b2b4c17bf4f04eaeeb6c0343a149f8502.jpg"
+ <img width="1000" src="https://i.imgur.com/P1F9eM2.jpeg"
  </p>
  <p align="center"> 
  <img width="600" src="https://64.media.tumblr.com/53db0a2bbab91e13cd549a60455a9877/4f7dfb36276881c0-b8/s400x600/c658c6e2e88354aab81541f439fc810c3ea5ca85.gifv"
