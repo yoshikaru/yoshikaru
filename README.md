@@ -8,7 +8,7 @@
  <img width="1000" src="https://i.imgur.com/P1F9eM2.jpeg"
  </p>
  <p align="center"> 
- <img width="600" src="https://64.media.tumblr.com/406d8e5c1ed7eb5c9a3847a39e6704a5/3729f36bbe497578-61/s400x600/f17d87bb562c4c972bc846eebd005e82f64c7e95.gifv"
+ <img width="500" src="https://64.media.tumblr.com/406d8e5c1ed7eb5c9a3847a39e6704a5/3729f36bbe497578-61/s400x600/f17d87bb562c4c972bc846eebd005e82f64c7e95.gifv"
  </p>
   <p align="center"> 
   <strong>${\color{cyan}➤}$⠀feel free to int</strong>, i dont bite and i'm up for conversations
@@ -37,12 +37,12 @@
 <a href="https://thedesires.atabook.org/">ATABOOK</a> ${\color{cyan}.}$ <a href="https://bundlrs.cc/kusuo.saiki">BUNDLRS</a> ${\color{cyan}.}$ <a href="https://listography.com/thedesires">INTERESTS</a>
   </p>
   <p align="center">
- <img width="35" src="https://64.media.tumblr.com/31638ab32cc7c85ba10d396f94a34dd0/4720c94c0b561795-1d/s75x75_c1/4e3453c7aac02a8f02fdc153a3bc6073d3daf976.gifv"
+ <img width="25" src="https://64.media.tumblr.com/31638ab32cc7c85ba10d396f94a34dd0/4720c94c0b561795-1d/s75x75_c1/4e3453c7aac02a8f02fdc153a3bc6073d3daf976.gifv"
   </p>
-  <img width="35" src="https://64.media.tumblr.com/86ab758692a4d3f37b1c4b263e1a926f/23c9d1d5cf9aada9-4f/s75x75_c1/75d92dc431135c6d945499604f4100127b934ae8.gifv"
+  <img width="25" src="https://64.media.tumblr.com/86ab758692a4d3f37b1c4b263e1a926f/23c9d1d5cf9aada9-4f/s75x75_c1/75d92dc431135c6d945499604f4100127b934ae8.gifv"
  </p>
   <p align="center"> 
- <img width="600" src="https://64.media.tumblr.com/406d8e5c1ed7eb5c9a3847a39e6704a5/3729f36bbe497578-61/s400x600/f17d87bb562c4c972bc846eebd005e82f64c7e95.gifv"
+ <img width="500" src="https://64.media.tumblr.com/406d8e5c1ed7eb5c9a3847a39e6704a5/3729f36bbe497578-61/s400x600/f17d87bb562c4c972bc846eebd005e82f64c7e95.gifv"
   </p>
   <p align="center">
  </p>
